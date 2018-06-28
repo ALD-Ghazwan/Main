@@ -1,0 +1,3 @@
+[submodule "Module-A"]
+	path = Module-A
+	url = https://github.com/ALD-Ghazwan/Module-A.git
